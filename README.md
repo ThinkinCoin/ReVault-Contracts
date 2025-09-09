@@ -1,5 +1,7 @@
 # RecoveryVault — Technical Documentation (Public README)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/067bce1407734ed08b5ba10470a7ad67)](https://app.codacy.com/gh/ThinkinCoin/ReVault-Contracts?utm_source=github.com&utm_medium=referral&utm_content=ThinkinCoin/ReVault-Contracts&utm_campaign=Badge_Grade)
+
 > **TL;DR for non-technical readers**
 >
 > * You send a **supported token** to the Vault and choose to receive **wONE or USDC**.
