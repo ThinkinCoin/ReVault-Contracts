@@ -2,3 +2,4 @@ scripts
 .env*
 package.json
 .git*
+public

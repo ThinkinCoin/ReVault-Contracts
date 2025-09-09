@@ -1,4 +1,7 @@
 # RecoveryVault — Technical Documentation (Public README)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/28d4a44008b444e0ac73711fb2797e16)](https://app.codacy.com/gh/ThinkinCoin/ReVault-Contracts/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+---
 
 > **TL;DR for non-technical readers**
 >
@@ -303,4 +306,4 @@ await tx.wait();
 
 **Audits:** *Contract verified on explorer and its opensource to be audited by everyONE.*
 
-**Contacts:** *[Mauricio F](https://t.me/mzfshark). | [ Think in Coin](https://t.me/thinkincoin) channel*
+**Contacts:** *[Mauricio F](https://t.me/mzfshark). | [Think in Coin](https://t.me/thinkincoin) channel*
